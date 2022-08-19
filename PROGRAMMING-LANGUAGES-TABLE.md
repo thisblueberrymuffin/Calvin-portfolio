@@ -2,5 +2,5 @@
 
 | Language Name | Creator | Major Uses | Popular Libraries | Compiler/Interpreter Programming Language | Job and Salaries |
 | ------------- | ------- | ---------- | ----------------- | ----------------------------------------- | ---------------- |
-| Python |
+| Python | Guido Van Rossum | Web, GUI, scientific, System Adminisation | Django, tkInter, SciPy, Ansible |
 | C | | | | | | 
