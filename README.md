@@ -5,3 +5,4 @@ Hello my name is Calvin and this is my spectaular Portfolio. I am a student in I
 ## Contents
 - [Resume](RESUME.md)
 - [Programming Languages Table](PROGRAMMING-LANGUAGES-TABLE.md)
+- [Binary Logic](Binary-Logic.md)
