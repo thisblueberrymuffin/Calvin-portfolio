@@ -19,4 +19,9 @@ In-home
 - Reading
 - Playing with pets
 
+## Typing
+Keys learned
+- J, F, Space
+- U, R, K
+
 [Go Back](README.md)
