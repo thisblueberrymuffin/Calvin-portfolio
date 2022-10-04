@@ -24,6 +24,7 @@ In-home
 Keys learned
 - J, F, Space
 - U, R, K
+- D, E, I
 - 30 wpm
 
 [Go Back](README.md)
