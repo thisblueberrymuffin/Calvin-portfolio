@@ -13,6 +13,7 @@ Nichimashi International School
 In-home
 - Frozen cookie dough
 - Law care
+- Soccer Referee
 
 ## Hobbies
 - Playing the piano
